@@ -22,8 +22,8 @@ Currently learning and growing every day!
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [🌤 Weather App](https://github.com/pranayrai/weather-app) | Real-time weather with 5-day forecast | JS, HTML, CSS |
-| [📊 Finance Dashboard](https://github.com/pranayrai/finance-dashboard) | Business finance tracker with charts | Next.js, PostgreSQL |
+| [🌤 Weather App](https://github.com/Frankenstein489/Weather-app.git) | Real-time weather with 5-day forecast | JS, HTML, CSS |
+| [📊 Annapurna](https://github.com/Frankenstein489/Weather-app.git) | Business finance tracker with charts | Next.js, PostgreSQL |
 
 ---
 
