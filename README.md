@@ -27,18 +27,11 @@ Currently learning and growing every day!
 
 ---
 
-## 📊 GitHub Stats
-
-![Pranay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pranayrai&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pranayrai&layout=compact&theme=tokyonight&hide_border=true)
-
----
 
 ## 📫 Contact Me
 
-- 📧 Email: your@email.com
-- 💼 LinkedIn: linkedin.com/in/yourname
+- 📧 Email: pranayrai207@email.com
+- 💼 LinkedIn: 
 
 ---
 
