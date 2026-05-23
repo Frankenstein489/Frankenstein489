@@ -1,4 +1,49 @@
-## Hi there 👋
+# Hi, I'm Pranay! 👋
+
+### 🧑‍💻 Full Stack Developer | Nepal
+
+I build web apps using JavaScript, React, and Node.js.
+Currently learning and growing every day!
+
+---
+
+## 🛠 Tech Stack
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+---
+
+## 🚀 Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| [🌤 Weather App](https://github.com/pranayrai/weather-app) | Real-time weather with 5-day forecast | JS, HTML, CSS |
+| [📊 Finance Dashboard](https://github.com/pranayrai/finance-dashboard) | Business finance tracker with charts | Next.js, PostgreSQL |
+
+---
+
+## 📊 GitHub Stats
+
+![Pranay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pranayrai&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pranayrai&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+## 📫 Contact Me
+
+- 📧 Email: your@email.com
+- 💼 LinkedIn: linkedin.com/in/yourname
+
+---
+
+⭐ Feel free to explore my repos and leave a star if you find something useful!
+
 
 <!--
 **Frankenstein489/Frankenstein489** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
