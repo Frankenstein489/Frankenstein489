@@ -2,7 +2,7 @@
 
 ### 🧑‍💻 Full Stack Developer | Nepal
 
-I build web apps using JavaScript, React, and Node.js.
+I build web apps using React, and Node.js.
 Currently learning and growing every day!
 
 ---
