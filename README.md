@@ -1,52 +1,57 @@
-Pranay Rai
+# Pranay Rai
 Data Analyst and Developer with a background in Computer Science.
+
 I enjoy breaking down complex problems into clean, working solutions. My work spans the full data pipeline from raw data to deployed applications. I move comfortably between writing SQL queries, building machine learning models, and shipping them as usable web tools.
 
-What I Do
+---
 
-Extract meaning from messy data through analysis and visualization
-Build and evaluate machine learning models for real-world problems
-Deploy data-driven applications that people can actually use
+## What I Do
 
+- Extract meaning from messy data through analysis and visualization
+- Build and evaluate machine learning models for real-world problems
+- Deploy data-driven applications that people can actually use
 
-Technical Stack
-Languages
+---
 
-Python
-SQL
-JavaScript
+## Technical Stack
 
-Data Analysis and Machine Learning
+### Languages
 
-Pandas, NumPy
-Matplotlib, MS Excel
-Scikit-learn, XGBoost
-Feature engineering, regression, classification
+- Python
+- SQL
+- JavaScript
 
-Databases
+### Data Analysis and Machine Learning
 
-PostgreSQL, MySQL
-Supabase
-Query optimization and schema design
+- Pandas, NumPy
+- MS Excel
+- Scikit-learn, XGBoost
+- Feature engineering, regression, classification
 
-Web and Deployment
+### Databases
 
-FastAPI
-Next.js, React, Tailwind CSS
-RESTful APIs
-Vercel, Render
+- PostgreSQL, MySQL
+- Query optimization and schema design
 
-Tools
+### Web and Deployment
 
-Git, GitHub
-Jupyter Notebook
-VS Code
-Kaggle
-Excel
+- FastAPI
+- Next.js, React, Tailwind CSS
+- RESTful APIs
+- Vercel, Render
 
+### Tools
 
-Background
+- Git, GitHub
+- Jupyter Notebook
+- VS Code
+- Kaggle
+- Excel
 
-BSc in Computer Science and Information Technology (CSIT)
-Experience in full-stack development and game development
-Strong foundation in problem solving, debugging, and system thinking
+---
+
+## Background
+
+- BSc in Computer Science and Information Technology (CSIT)
+- Experience in full-stack development and game development
+- Strong foundation in problem solving, debugging, and system thinking
