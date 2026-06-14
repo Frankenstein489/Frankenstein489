@@ -19,7 +19,7 @@ I enjoy breaking down complex problems into clean, working solutions. My work sp
 
 - Python
 - SQL
-- Javascript
+-
 
 ### Data Analysis and Machine Learning
 
