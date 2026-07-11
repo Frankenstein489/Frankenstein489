@@ -18,7 +18,7 @@ I enjoy breaking down complex problems into clean, working solutions. My work sp
 ### Languages
 
 - Python
-- SQL
+- 
 - Javascript
 
 ### Data Analysis and Machine Learning
